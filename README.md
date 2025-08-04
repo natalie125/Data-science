@@ -1,4 +1,4 @@
-This project is aimed to understanding The Impact of Social Isolation and Loneliness in a Game Environment. This project investigates the impact of self-isolation and social distancing on players’ gaming behaviour during the COVID-19 pandemic. Using a dataset containing players' self-reported isolation duration, emotional responses, regional data, and in-game activity logs, the project aims to:
+This group project is aimed to understanding The Impact of Social Isolation and Loneliness in a Game Environment. It was done by the owner of the repository, Sandra Guran and Ayesha Rahman. This project investigates the impact of self-isolation and social distancing on players’ gaming behaviour during the COVID-19 pandemic. Using a dataset containing players' self-reported isolation duration, emotional responses, regional data, and in-game activity logs, the project aims to:
 
 1. Perform exploratory data analysis (EDA) to uncover trends and behavioural patterns across different regions and isolation durations.
 
